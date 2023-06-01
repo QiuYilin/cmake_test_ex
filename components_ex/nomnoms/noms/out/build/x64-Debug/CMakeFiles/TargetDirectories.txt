@@ -1,0 +1,17 @@
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/CMakeFiles/install.dir
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/fruit/CMakeFiles/fruit.dir
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/fruit/CMakeFiles/edit_cache.dir
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/fruit/CMakeFiles/rebuild_cache.dir
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/fruit/CMakeFiles/list_install_components.dir
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/fruit/CMakeFiles/install.dir
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/fruit/CMakeFiles/install/local.dir
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/veg/CMakeFiles/veg.dir
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/veg/CMakeFiles/edit_cache.dir
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/veg/CMakeFiles/rebuild_cache.dir
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/veg/CMakeFiles/list_install_components.dir
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/veg/CMakeFiles/install.dir
+C:/program_on_git/bookcode/Modern-CMake-for-Cpp/examples/chapter11/components_ex/nomnoms/noms/out/build/x64-Debug/veg/CMakeFiles/install/local.dir
