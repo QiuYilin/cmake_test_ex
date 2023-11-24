@@ -5,6 +5,10 @@ add_library(${component} SHARED src/asparagus.cpp)
 # namespaced alias
 add_library(${project}::${component} ALIAS ${component})
 
+enable_language(C)
+find_package(VTK REQUIRED)
+target_link_libraries(${component} PUBLIC ${VTK_LIBRARIES})
+
 target_include_directories(${component}
   PUBLIC
     $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/include>
@@ -44,7 +48,7 @@ configure_file("${component}-config.cmake.in"
 include(CMakePackageConfigHelpers)
 write_basic_package_version_file(
   "${CMAKE_BINARY_DIR}/${project}-${component}-config-version.cmake"
-  VERSION ${version}
+  VERSION "0.0.0"
   COMPATIBILITY AnyNewerVersion
 )
 

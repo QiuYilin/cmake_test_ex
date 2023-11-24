@@ -2,6 +2,10 @@ set(component fruit)
 
 add_library(${component} SHARED src/apple.cpp)
 
+enable_language(C)
+find_package(PCL REQUIRED)
+target_link_libraries(${component} PRIVATE ${PCL_LIBRARIES})
+
 # namespaced alias
 add_library(${project}::${component} ALIAS ${component})
 
@@ -44,7 +48,7 @@ configure_file("${component}-config.cmake.in"
 include(CMakePackageConfigHelpers)
 write_basic_package_version_file(
   "${CMAKE_BINARY_DIR}/${project}-${component}-config-version.cmake"
-  VERSION ${version}
+  VERSION "0.0.0"
   COMPATIBILITY AnyNewerVersion
 )
 
